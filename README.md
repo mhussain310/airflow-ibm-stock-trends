@@ -40,7 +40,7 @@ http://localhost:8501/ # To open the Streamlit App
 _Figure 1: View of DAG from Airflow UI._
 
 ![View of the Streamlit App](assets/streamlit_app.png)
-_Figure 1: View of the Streamlit App._
+_Figure 2: View of the Streamlit App._
 
 ## Problem Statement
 
