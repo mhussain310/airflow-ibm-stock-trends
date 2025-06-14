@@ -1,0 +1,11 @@
+SELECT
+  local_time,
+  location_name,
+  condition_icon,
+  condition_text,
+  temp_c,
+  feelslike_c,
+  humidity,
+  wind_mph
+FROM
+  current_weather
