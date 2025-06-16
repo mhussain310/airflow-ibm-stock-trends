@@ -1,0 +1,12 @@
+SELECT
+  "date",
+  avgtemp_c,
+  maxwind_mph,
+  avghumidity,
+  "open",
+  "close",
+  high,
+  low,
+  volume
+FROM
+  daily_stock_and_weather

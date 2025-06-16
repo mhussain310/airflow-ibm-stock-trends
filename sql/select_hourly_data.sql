@@ -1,0 +1,12 @@
+SELECT
+  "time",
+  temp_c,
+  wind_mph,
+  humidity,
+  "open",
+  "close",
+  high,
+  low,
+  volume
+FROM
+  hourly_stock_and_weather
